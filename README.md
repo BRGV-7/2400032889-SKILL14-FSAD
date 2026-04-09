@@ -6,13 +6,13 @@ Authentication demo with registration, login, protected routes, profile fetch, a
 
 ### Backend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-14/backend"
+cd "/Users/bhargavnagam/FULL STACK SKILL/Skill-14/backend"
 mvn spring-boot:run
 ```
 
 ### Frontend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-14/frontend"
+cd "/Users/bhargavnagam/FULL STACK SKILL/Skill-14/frontend"
 npm install
 npm run dev
 ```
